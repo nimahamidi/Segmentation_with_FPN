@@ -6,4 +6,8 @@ This is a Keras implementation of a segmentation algorithm with a FPN structure,
 - The FPN with ResNet backbone is strong enough to do segmentation, human pose detection and ...
 ![image](https://github.com/nimahamidi/Segmentation_with_FPN/blob/master/Segmentation_FPN.png)
 ## Requirement
-
+- Keras
+- Tensorflow
+- OpenCv
+- Numpy
+- h5py
